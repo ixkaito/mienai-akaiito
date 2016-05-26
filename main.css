@@ -1,0 +1,17 @@
+.akaiito {
+	display: inline;
+}
+
+.akaiito:hover .akari {
+	color: red;
+}
+
+.kite,
+.akari {
+	display: inline-block;
+	cursor: pointer;
+}
+
+.akaiito .akari:hover {
+	color: inherit;
+}
